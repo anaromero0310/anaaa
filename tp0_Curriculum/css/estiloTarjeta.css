@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.tarjeta{
+    
+    border: solid 3px yellow;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    box-sizing: border-box;
+
+
+
+}
+ 
+
+body{
+    background-color: #444444;
+}
+
+
+.cabecera{
+    background-color: #7040DF;
+    height: 100%;
+    width: 100%;
+  
+}
+
+.data{
+    background-color: white;
+}
+
+body{
+    height: 100vh;
+    background-color:#444444;
+}
+
+
+
+
+
