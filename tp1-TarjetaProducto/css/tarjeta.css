@@ -20,14 +20,12 @@ object-fit: cover;
 }
 
 
-.producto{
+.producto:nth-child(odd){
 
-}
+background-color: aqua;
+flex-direction: row-reverse;
 
-.producto:last-child{
-    
-background-color: cadetblue;
-   
+
 }
 
 .producto{
